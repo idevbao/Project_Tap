@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor whiteColor];
+    self.edgesForExtendedLayout = UIRectEdgeNone;
 
     imgView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"1.jpg"]];
     imgView.frame = CGRectMake(0, 0, self.view.frame.size.width,self.view.frame.size.height);
