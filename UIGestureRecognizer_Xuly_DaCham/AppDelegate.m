@@ -9,6 +9,7 @@
 #import "AppDelegate.h"
 #import "DieuPhoiDaCham.h"
 #import "Custom_GR.h"
+#import "openAPPlication_New.h"
 
 @interface AppDelegate ()
 
@@ -21,7 +22,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen]bounds]];
 //    DieuPhoiDaCham * vcDP = [[DieuPhoiDaCham alloc] init];
     Custom_GR * vcCT = [[Custom_GR  alloc]init];
-    UINavigationController * naviCtr = [[UINavigationController alloc] initWithRootViewController:vcCT];
+    UINavigationController * naviCtr = [[UINavigationController alloc] initWithRootViewController:[openAPPlication_New new]];
     self.window.rootViewController = naviCtr;
     [self.window makeKeyAndVisible];
     NSLog(@"didFinishLaunchingWithOptions: Hoan thanh khoi chay");

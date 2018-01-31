@@ -11,6 +11,7 @@
 		4A8FEA5F202013C8001C607D /* DieuPhoiDaCham.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A8FEA5E202013C8001C607D /* DieuPhoiDaCham.m */; };
 		4A8FEA6220205416001C607D /* Custom_GR.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A8FEA6120205416001C607D /* Custom_GR.m */; };
 		4A8FEA6420205B44001C607D /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4A8FEA6320205B44001C607D /* 1.jpg */; };
+		4AE843D52021CCA1003CB4E5 /* openAPPlication_New.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE843D42021CCA1003CB4E5 /* openAPPlication_New.m */; };
 		4AF12642201EF52400520CEF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AF12641201EF52400520CEF /* main.m */; };
 		4AF12645201EF52400520CEF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AF12644201EF52400520CEF /* AppDelegate.m */; };
 		4AF12648201EF52400520CEF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AF12647201EF52400520CEF /* ViewController.m */; };
@@ -26,6 +27,8 @@
 		4A8FEA6020205416001C607D /* Custom_GR.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Custom_GR.h; sourceTree = "<group>"; };
 		4A8FEA6120205416001C607D /* Custom_GR.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Custom_GR.m; sourceTree = "<group>"; };
 		4A8FEA6320205B44001C607D /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		4AE843D32021CCA1003CB4E5 /* openAPPlication_New.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = openAPPlication_New.h; sourceTree = "<group>"; };
+		4AE843D42021CCA1003CB4E5 /* openAPPlication_New.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = openAPPlication_New.m; sourceTree = "<group>"; };
 		4AF1263D201EF52400520CEF /* UIGestureRecognizer_Xuly_DaCham.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIGestureRecognizer_Xuly_DaCham.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AF12641201EF52400520CEF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		4AF12643201EF52400520CEF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -78,6 +81,8 @@
 				4A8FEA5E202013C8001C607D /* DieuPhoiDaCham.m */,
 				4A8FEA6020205416001C607D /* Custom_GR.h */,
 				4A8FEA6120205416001C607D /* Custom_GR.m */,
+				4AE843D32021CCA1003CB4E5 /* openAPPlication_New.h */,
+				4AE843D42021CCA1003CB4E5 /* openAPPlication_New.m */,
 			);
 			path = UIGestureRecognizer_Xuly_DaCham;
 			sourceTree = "<group>";
@@ -172,6 +177,7 @@
 				4A8FEA5F202013C8001C607D /* DieuPhoiDaCham.m in Sources */,
 				4A8FEA6220205416001C607D /* Custom_GR.m in Sources */,
 				4AF12648201EF52400520CEF /* ViewController.m in Sources */,
+				4AE843D52021CCA1003CB4E5 /* openAPPlication_New.m in Sources */,
 				4AF12645201EF52400520CEF /* AppDelegate.m in Sources */,
 				4AF12642201EF52400520CEF /* main.m in Sources */,
 			);
